@@ -10,4 +10,4 @@ Toiminnan tarkoituksena on levittää tietoa tähtitieteestä, koota harrastajat
 
 Yhteydenotto: Email: contact@mixerboy24tech.fi // [Twitter](https://www.twitter.com/Mixerboy24Tech) // [Facebook](https://www.facebook.com/Mixerboy24Tech/)
 
-(c)Mixerboy24Tech 2019 
+(c)Mixerboy24Tech 2019
