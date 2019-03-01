@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+#main-container {
+    width: 80%;
+    margin: 0px auto;
+    background: #e6ffee;
+}
+
+body {
+    background-color: white;
+}
+
+#header {
+    padding: 10px;
+    color: ffcca31a;
+}
+
+    #header:after {
+        content: ".";
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+
+nav {
+    /*float: left;*/
+    background-color: #00cc44;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+    nav ul {
+        list-style: none;
+        height: 42px;
+        padding: 0px;
+        margin: 0px;
+        
+
+    }
+
+        nav ul li {
+            float: left;
+            margin: 0px;
+            display: block;
+            padding: 12px;
+            text-align: center;
+            min-width: 80px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+            nav ul li a {
+                text-decoration: none;
+                color: black;
+                font-weight: bold;
+                color: black;
+            }
+
+            nav ul li:hover {
+                background-color: #68bcfd;
+            } 
+
+#main-body-container {
+    padding: 10px;
+    margin: 10px;
+    margin-top: 50px;
+}
+
+    #main-body-container:after {
+        content: ".";
+        display: block;
+        height: 0;
+        clear: both;
+        visibility: hidden;
+    }
+
+#article-post {
+    margin: 10px;
+    margin-top: 10px;
+}
+
+    #article-post h1, #article-post h1 a {
+        font-size: 24px;
+        text-decoration: none;
+        color: black;
+        resize: none;
+        overflow: hidden;
+    }
+
+#main-article {
+    float: left;
+    width: 50%;
+    min-height: 450px;
+    resize: none;
+    overflow: hidden;
+}
+
+#sidebar {
+    float: right;
+    width: 45%;
+    min-height: 450px;
+}
+
+#footer {
+    background-color: #00cc44;
+    padding: 10px;
+    color: black;
+}
+
+
+
+.scale {
+    resize: none;
+    overflow: hidden;
+}
+
+iframe {
+    width: auto;
+    max-height: 500px;
+    margin-right: 10px;
+
+}
