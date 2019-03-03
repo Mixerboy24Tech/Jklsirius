@@ -7,6 +7,10 @@ Toiminnan tarkoituksena on levittää tietoa tähtitieteestä, koota harrastajat
 
 (Lähde: Jyväskylän siriuksen websivut)
 
+[Jyväskylän Sirius Ry Kotisivu](http://www.jklsirius.fi)   
+[Hankasalmen  Observatory](http://murtoinen.jklsirius.fi)  
+[Nyrola Observatory](http://nyrola.jklsirius.fi)
+
 
 Yhteydenotto: Email: contact@mixerboy24tech.fi // [Twitter](https://www.twitter.com/Mixerboy24Tech) // [Facebook](https://www.facebook.com/Mixerboy24Tech/)
 
